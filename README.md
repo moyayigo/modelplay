@@ -1,4 +1,10 @@
-# 🎮 ModelPlay
+<div align="center">
+
+<h1 align="center">🎮 ModelPlay</h1>
+
+English / [简体中文](./README_zh.md)
+
+</div>
 
 > An LLM-powered AI interaction platform — let AI be your game opponent, learning tutor, or collaboration partner
 
