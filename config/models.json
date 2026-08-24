@@ -1,0 +1,29 @@
+{
+    "active_provider": "local",
+    "providers": {
+        "local": {
+            "name": "本地模型 (llama)",
+            "model": "LFM2.5-VL-1.6B-Q8_0.gguf",
+            "api_url": "http://localhost:8080/v1",
+            "api_key": "",
+            "max_tokens": 8192,
+            "timeout": 420
+        },
+		"networks": {
+            "name": "局域网模型 (llama)",
+            "model": "Qwen3.5-4B-MTP-IQ4_NL.gguf",
+            "api_url": "http://192.168.1.2:8080/v1",
+            "api_key": "",
+            "max_tokens": 20480,
+            "timeout": 420
+        },
+        "remote_example": {
+            "name": "远程模型示例 (填入API Key后启用)",
+            "model": "gpt-4o-mini",
+            "api_url": "https://api.openai.com/v1",
+            "api_key": "YOUR KEY",
+            "max_tokens": 4096,
+            "timeout": 120
+        }
+    }
+}
