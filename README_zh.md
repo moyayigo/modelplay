@@ -1,4 +1,10 @@
-# 🎮 ModelPlay
+<div align="center">
+
+<h1 align="center">🎮 ModelPlay</h1>
+
+简体中文 / [English](./README.md)
+
+</div>
 
 > 基于 LLM 的 AI 交互平台 —— 让 AI 成为你游戏对手、学习导师、协同伙伴
 
