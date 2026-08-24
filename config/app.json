@@ -1,0 +1,5 @@
+{
+    "api_base_url": "https://moyayigo.pythonanywhere.com",
+    "frontend_timeout": 480,
+    "daily_token_limit": 1000000
+}
