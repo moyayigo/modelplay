@@ -397,7 +397,7 @@ def render_docs():
                 <span style="background:#7c3aed; color:#fff; width:28px; height:28px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:14px; font-weight:700;">2</span>
                 <h4 class="mp-section-title" style="margin:0; font-size:16px;">{get_text('step_2_title', LANG)}</h4>
             </div>
-            <pre style="background:rgba(0,0,0,0.3); padding:12px; border-radius:8px; font-size:13px; margin:0; overflow-x:auto;"><code>streamlit run index.py</code></pre>
+            <pre style="background:rgba(0,0,0,0.3); padding:12px; border-radius:8px; font-size:13px; margin:0; overflow-x:auto;"><code>streamlit run app.py</code></pre>
         </div>
         """, unsafe_allow_html=True)
     with col3:
