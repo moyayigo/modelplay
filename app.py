@@ -74,7 +74,7 @@ def render_navbar():
             st.rerun()
     with col_github:
         st.markdown(f"""
-        <a href="{GITHUB_URL}" target="_blank" class="mp-github-btn" title="GitHub" style="
+        <a href="https://github.com/moyayigo/modelplay" target="_blank" class="mp-github-btn" title="GitHub" style="
             display:inline-block; width:100%; text-align:center; padding:0.5rem 1rem;
             border-radius:0.5rem; text-decoration:none;
         ">

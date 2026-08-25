@@ -80,7 +80,7 @@ def render_toolbar():
             st.rerun()
     with col4:
         st.markdown(f"""
-        <a href="{GITHUB_URL}" target="_blank" title="GitHub" style="
+        <a href="https://github.com/moyayigo/modelplay" target="_blank" title="GitHub" style="
             display:inline-block; width:100%; text-align:center; padding:0.5rem 1rem;
             border-radius:0.5rem; text-decoration:none;
         ">
